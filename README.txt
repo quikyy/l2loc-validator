@@ -1,4 +1,4 @@
-Validation tool written in Google Apps Script framework. (Google Apps Script is a coding language based on JavaScript that allows you to extend and manipulate Google apps like Drive, Sheets, Docs, and Gmail).
+Localization validation tool written in Google Apps Script framework. (Google Apps Script is a coding language based on JavaScript that allows you to extend and manipulate Google apps like Drive, Sheets, Docs, and Gmail).
 
 The task of the tool was to support the QA team in their localization tests of individual texts in the mobile game.
 The tool, according to specific rules, checked:
